@@ -25,7 +25,7 @@ import org.hibernate.cfg.Configuration;
 @RunWith(JUnit4.class)
 public class JunitTest {
 
-	
+//kevin test for github
 	private Session hibernateConfig (){
         // 1. configuring hibernate
    	Configuration  configuration = new Configuration ().configure();
